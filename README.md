@@ -34,4 +34,5 @@ php artisan migrate --seed
 php artisan serve
 
 7. Run Vite for Frontend Development
+
 npm run dev
