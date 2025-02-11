@@ -1,6 +1,7 @@
 Installation & Setup
 
 1. Clone the Repository
+https://github.com/martinmara/Laravel-Technical-Test.git
 
 cd employee-timesheet
 
